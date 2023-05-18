@@ -1,6 +1,6 @@
 #pragma once
 
-using Value = int;
+using Value = double;
 //! \brief Класс, реализующий С++ контейнер vector для типа int
 class Vector
 {
